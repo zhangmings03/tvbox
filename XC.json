@@ -41,20 +41,7 @@
             "quickSearch": 0,
             "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
         },	
-	{
-      "key": "Biliych",
-      "name": "🅱明星┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
-    },	
+		
      {
       "key": "Iktv",
       "name": "🎤KTV音乐",
@@ -121,13 +108,7 @@
     },	
 		
      {"key": "MV大全","name": "💽MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},  	
-    {
-    "key": "MTV转点播",
-    "name": "🎶16万MV",
-    "type": 3,
-    "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
-    "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
-  },
+    
   {
       "key": "美食",
       "name": " 🧡吾爱美食",
@@ -139,6 +120,20 @@
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/%E5%90%BE%E7%88%B1%E7%BE%8E%E9%A3%9F0804.json",
       "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar"
     },	
+{
+      "key": "Biliych",
+      "name": "🅱明星┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/biliych.json"
+    },			
   {
       "key": "哔哩哔哩",
       "name": "🅱️我的哔哩",
@@ -243,6 +238,8 @@
 "综艺",
 "动漫"
 ]},
+
+		
 {
       "key": "暴风",
       "name": "🎀暴风┃影视┃",
