@@ -11,6 +11,7 @@
     { "name": "斗鱼", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/douyu.txt"},
     { "name": "YY轮播", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/yy.txt"},
     { "name": "虎牙", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/huya.txt"},
+     { "name": "视频", "url": "https://ghproxy.net/https://github.com/eklins/FDTV/blob/main/tv/xxx.m3u"},
     { "name": "喵影视", "url": "http://www.weetai.cn/mtvzb.txt"},
     {"name":"网络电台","url":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/网络电台.txt"
     }
